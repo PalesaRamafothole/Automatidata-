@@ -15,3 +15,4 @@ Deliverables
 	Conduct a hypothesis test using the New York City TLC dataset
 	Create an executive summary for the Automatidata data team before sharing the results with the client
 
+note that this is a ficticious scenario, it is just meant to practice statistical concepts 
