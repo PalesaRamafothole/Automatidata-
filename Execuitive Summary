@@ -1,0 +1,23 @@
+Key Business Insight with Cautions: While encouraging credit card payments could increase driver revenue, the current analysis has limitations.
+Observation: Our analysis suggests a correlation between credit card payments and higher fares. This implies potentially higher revenue for drivers if they encourage credit card use.
+Caution: This finding rests on an assumption that passengers were randomly assigned payment methods and always complied, which doesn't reflect reality. The data was actually grouped retrospectively.
+Alternative Explanation: Higher fares might naturally gravitate towards credit card payments due to factors like: Passengers not carrying enough cash for longer/farther journeys. Convenience of cashless transactions. Therefore, it's more likely that fare amount influences payment method, not the other way around. Further analysis accounting for these factors is crucial before drawing definitive conclusions.
+
+
+
+Executive Summary Report
+Statistical Review and A/B Testing for New York City TLC Project
+
+Overview: This project aims to develop a tool for predicting taxi fares in advance, primarily focused on identifying methods to improve the revenue of New York City taxi drivers. As part of this effort, the current investigation explores the potential relationship between the total fare amount and the chosen payment type.
+Problem: This project investigates whether the payment method used by NYC taxi riders (cash, credit card) influences not just the base fare, but also the total fare including tips.
+Solution: Employing an A/B test approach, the Automatidata team explored the potential link between credit card payments and total taxi fares. While their results indicate that encouraging credit card use may be associated with increased driver revenue, further research is necessary to definitively establish a causal relationship.
+
+        Details 
+        Steps followed in the A/B test 
+1.	Leveraging a controlled experiment, we gathered data from two randomly assigned groups: one mandated to pay with credit card and the other with cash. This robust design allows for potential causal inferences regarding the impact of payment method on fare amount.
+2.	Descriptive statistics were employed to analyze the central tendencies (e.g., mean, median) of total fare amounts across different payment methods (cash, credit card).
+3.	A two-sample t-test was employed to assess the statistical significance of any observed difference in average total fare amount between the credit card and cash payment groups.
+A/B test results 
+The data conclusively shows a statistically significant difference in average fares. Customers paying with credit cards have a higher average total fare compared to those paying with cash.
+       Recommendations from analysis
+Following data analysis revealing a potential connection between payment method and fare amount, Automatidata urges the NYC TLC to initiate strategies promoting credit card use. Examples include "Credit card payments preferred" signs in cabs and a protocol for drivers to verbally highlight this option to passengers.
